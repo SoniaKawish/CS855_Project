@@ -1,4 +1,4 @@
-<h1 align="center">KnowRegina </h1>
+<h1>KnowRegina </h1>
 <p align="center">
 <img src="assets/customSplash.png" width="300"  >
 </p>
@@ -28,7 +28,7 @@ This App is built on [React Native](https://reactnative.dev/) using [Expo](https
 This App is built as a university project to implement in practice the skills learned for building a mobile app using React Native.  KnowRegina is a tourism based app, in which places are categorized as recreational, restaurants or having historical significance/heritage value, . Also listing the Must-Dos of a place and any fun facts about the city. Features are discussed in detail in [App Features](#app-features).
 
 ### App Preview
-add viedo here 
+<img src="assets\appReview.gif" alt="homeScreen" width="100" />
 ## App Features
 Features of the app are discussed as below. 
 1. User can choose to view different types of places in the city.
