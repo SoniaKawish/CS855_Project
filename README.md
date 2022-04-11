@@ -1,4 +1,7 @@
-# KnowRegina <img src="assets/customSplash.png" width="80">
+<h1 align="center">KnowRegina </h1>
+<p align="center">
+<img src="assets/customSplash.png" width="300"  >
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
