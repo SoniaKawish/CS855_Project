@@ -28,26 +28,26 @@ This App is built on [React Native](https://reactnative.dev/) using [Expo](https
 This App is built as a university project to implement in practice the skills learned for building a mobile app using React Native.  KnowRegina is a tourism based app, in which places are categorized as recreational, restaurants or having historical significance/heritage value, . Also listing the Must-Dos of a place and any fun facts about the city. Features are discussed in detail in [App Features](#app-features).
 
 ### App Preview
-<img src="assets\appReview.gif" alt="homeScreen" width="100" />
+<img src="assets\appReview.gif" alt="homeScreen" width="300" />
 ## App Features
 Features of the app are discussed as below. 
 1. User can choose to view different types of places in the city.
 
-   <img src="assets\homeScreen.jpeg" alt="homeScreen" width="100" />
+   <img src="assets\homeScreen.jpeg" alt="homeScreen" width="200" />
 
 2. Based on the category chosen, a list of of places is displayed, showing basic information about the places.
 
-   ​    <img src="assets\palceList.jpeg" alt="palceList" width="100" /><img src="assets\placeList2.jpeg" alt="placeList2" width="100" />
+   ​    <img src="assets\palceList.jpeg" alt="palceList" width="200" /><img src="assets\placeList2.jpeg" alt="placeList2" width="200" />
 3. User can view pictures of the selected place, address and  a brief information about the place.
 
-   <img src="assets\detailFav.jpeg" alt="detailFav" width="100" />
+   <img src="assets\detailFav.jpeg" alt="detailFav" width="200" />
 4. User can navigate to the maps from the address information.
 5. User can also learn some fun-facts about the city. 
 
-   <img src="assets\funFacts.jpeg" alt="funFacts" width="100" />
+   <img src="assets\funFacts.jpeg" alt="funFacts" width="200" />
 6. User can know which places are recommendation of the locals. If a place is recommended by the locals, a heart Icon is displayed for that place in the Details screen, not otherwise. 
 
-   <img src="assets\detailFav.jpeg" alt="detailFav" width="100" /><img src="assets\detailNotFav.jpeg" alt="detailNotFav" width="100" />
+   <img src="assets\detailFav.jpeg" alt="detailFav" width="200" /><img src="assets\detailNotFav.jpeg" alt="detailNotFav" width="200" />
 
 ## Manifest
 - `App.js` This is the main file which layouts the screens used in the app using [React Navigation](https://reactnavigation.org/).  
