@@ -37,7 +37,7 @@ Features of the app are discussed as below.
 
 2. Based on the category chosen, a list of of places is displayed, showing basic information about the places.
 
-   ​    <img src="assets\palceList.jpeg" alt="palceList" width="270" /><img src="assets\placeList2.jpeg" alt="placeList2" width="200" />
+   ​    <img src="assets\palceList.jpeg" alt="palceList" width="270" /><img src="assets\placeList2.jpeg" alt="placeList2" width="270" />
 3. User can view pictures of the selected place, address and  a brief information about the place.
 
    <img src="assets\detailFav.jpeg" alt="detailFav" width="270" />
