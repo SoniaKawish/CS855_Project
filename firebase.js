@@ -1,3 +1,5 @@
+// This file conains Firebase DB connection configurations
+
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 
@@ -15,16 +17,6 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
-// import { getDatabase, ref, onValue} from "firebase/database";
 
 
-// // Get a reference to the database service 
-// const db = getDatabase();  
 
-
- 
-// const reference = ref(db, 'places/City'); 
-//   onValue(reference, (snapshot) => {
-//     const data = snapshot.val();
-//     console.log("referenced data: " + data);
-//   });
