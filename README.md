@@ -8,11 +8,10 @@
 	- [App Preview](#app-preview)
 - [App Features](#app-features)
 - [Manifest](#manifest)
-- [Build Process](#buid-process)
+- [Build Process](#build-process)
 	- [Requirements](#requirements)
 	- [Getting Started](#getting-started)
 - [Libraries](#libraries)
-- [APK](#apk)
 - [Limitations](#limitations)
 - [Future Improvements](#future-improvements)
 - [Feedback](#feedback)
@@ -29,25 +28,26 @@ This App is built as a university project to implement in practice the skills le
 
 ### App Preview
 <img src="assets\appReview.gif" alt="homeScreen" width="300" />
+
 ## App Features
 Features of the app are discussed as below. 
 1. User can choose to view different types of places in the city.
 
-   <img src="assets\homeScreen.jpeg" alt="homeScreen" width="200" />
+   <img src="assets\homeScreen.jpeg" alt="homeScreen" width="270" />
 
 2. Based on the category chosen, a list of of places is displayed, showing basic information about the places.
 
-   ​    <img src="assets\palceList.jpeg" alt="palceList" width="200" /><img src="assets\placeList2.jpeg" alt="placeList2" width="200" />
+   ​    <img src="assets\palceList.jpeg" alt="palceList" width="270" /><img src="assets\placeList2.jpeg" alt="placeList2" width="200" />
 3. User can view pictures of the selected place, address and  a brief information about the place.
 
-   <img src="assets\detailFav.jpeg" alt="detailFav" width="200" />
+   <img src="assets\detailFav.jpeg" alt="detailFav" width="270" />
 4. User can navigate to the maps from the address information.
 5. User can also learn some fun-facts about the city. 
 
-   <img src="assets\funFacts.jpeg" alt="funFacts" width="200" />
+   <img src="assets\funFacts.jpeg" alt="funFacts" width="270" />
 6. User can know which places are recommendation of the locals. If a place is recommended by the locals, a heart Icon is displayed for that place in the Details screen, not otherwise. 
 
-   <img src="assets\detailFav.jpeg" alt="detailFav" width="200" /><img src="assets\detailNotFav.jpeg" alt="detailNotFav" width="200" />
+   <img src="assets\detailFav.jpeg" alt="detailFav" width="270" /><img src="assets\detailNotFav.jpeg" alt="detailNotFav" width="270" />
 
 ## Manifest
 - `App.js` This is the main file which layouts the screens used in the app using [React Navigation](https://reactnavigation.org/).  
@@ -60,7 +60,9 @@ Features of the app are discussed as below.
 	- `ListItem.js` A component displayed in the `HistoricalScreen.js`
 	- `FactListItem.js` Component displayed in the `FunFacts.js` screen. 
 - `/assets` Images folder. 
+
 ## Build Process
+
 ### Requirements
 - Node
 - Expo
@@ -81,10 +83,11 @@ Features of the app are discussed as below.
 	- `npm install react-native-vector-icons --save`
 - [React Native Open Maps](https://bestofreactjs.com/repo/brh55-react-native-open-maps-react-react-native-awesome-components#query-property)
 	- `npm install --save react-native-open-maps`
-## APK Link
-## Limitations/Fixes
+
+## Limitations
 Though the app is developed to be used on Android as well as iOS, but it is majorly tested on an Android device. 
-## Improvements
+
+## Future Improvements
 Given the restricted timeline, the scope of the project was limited to fulfill the main features. However, in the future more features can be added. As it is tourism app the scope can be increased vastly. Some are listed below.
 1. Building a community on the app, where people can interact.
 2. Adding language translator for tourists who are not very familar with English.
